@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="showFilms">Показать список</string>
+    <string-array name="filmGenre">
+        <item>Комедия</item>
+        <item>Мелодрама</item>
+        <item>Боевик</item>
+        <item>Детектив</item>
+        <item>Приключения</item>
+    </string-array>
+    <string-array name="filmCountry">
+        <item>Отечественное</item>
+        <item>Зарубежное</item>
+    </string-array>
+    <string name="Comedy">Елки\nДень радио</string>
+    <string name="Melodrama">Доктор Иванов\nГорячая точка</string>
+    <string name="Action">Брат\nПленный</string>
+    <string name="Detective">Алиби\nПреступление</string>
+    <string name="Adventures">Призрак\nТобол</string>
+</resources>
